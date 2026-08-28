@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+scikit-learn==1.5.1
+Pillow==10.4.0
+tqdm==4.66.5
+matplotlib==3.9.2
+statsmodels==0.14.2
+tsfresh==0.20.3
+hurst==0.0.5
+arch==7.0.0
