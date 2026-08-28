@@ -1,4 +1,4 @@
-# Lightweight Periodicity-Similarity-Guided Spatio-Temporal Anomaly Detection
+# Periodic-Similarity-Guided Lightweight Spatio-Temporal Anomaly Detection for IIoT Multisensor Signals
 
 This repository provides a PyTorch implementation of PSAD for multivariate time-series anomaly detection.
 
