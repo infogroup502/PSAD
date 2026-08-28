@@ -55,4 +55,4 @@ bash script/skab.sh
 The script uses `python` from the active Conda environment and stops with a clear error if CUDA is unavailable.
 
 The script trains and evaluates PSAD on SKAB. Checkpoints, logs, scores, and metrics are written under `result/SKAB/`.
-# PSAD
+
